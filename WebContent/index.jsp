@@ -4,7 +4,7 @@
 <html>
 
 <head>
-<title>TODO supply a title</title>
+<title>Gerador de Conteúdo</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -26,12 +26,11 @@
 							-- PROXIMOS JOGOS</a></li>
 					<li><a href="resultados.jsp">FUTEBOL --
 							RESULTADOS</a></li>
-					<li><a href="loteria/megasena.jsp">LOTERIA --
+					<li><a href="megasena.jsp">LOTERIA --
 							MEGASENA</a></li>
-					<li><a href="loteria/quina.jsp">LOTERIA -- QUINA</a></li>
+					<li><a href="quina.jsp">LOTERIA -- QUINA</a></li>
 					<li><a href="cinema.jsp">CINEMA</a></li>
 					<li><a href="cinematrailer.jsp">CINEMATRAILER</a></li>
-
 					<li><a href="cultura.jsp">CULTURA</a></li>
 					<li><a href="curiosidades.jsp">CURIOSIDADES</a></li>
 					<li><a href="hojeediado.jsp">HOJE E DIA DO...</a></li>
